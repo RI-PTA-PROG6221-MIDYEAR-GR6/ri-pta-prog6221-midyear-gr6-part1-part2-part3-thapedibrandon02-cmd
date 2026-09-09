@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\cyberSecurityAwarenessBot\cyberSecurityAwarenessBot\obj\Debug\net9.0\cyberSecurityAwarenessBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\cyberSecurityAwarenessBot\cyberSecurityAwarenessBot\obj\Debug\net9.0\cyberSecurityAwarenessBot.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\cyberSecurityAwarenessBot\cyberSecurityAwarenessBot\obj\Debug\net9.0\cyberSecurityAwarenessBot.AssemblyInfo.cs
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\cyberSecurityAwarenessBot\cyberSecurityAwarenessBot\obj\Debug\net9.0\cyberSecurityAwarenessBot.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\cyberSecurityAwarenessBot\cyberSecurityAwarenessBot\obj\Debug\net9.0\cyberSecurityAwarenessBot.sourcelink.json
