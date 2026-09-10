@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\cybersecurityawarenessbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\cybersecurityawarenessbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|c:\\users\\student\\documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cybersecurityawarenessbot\\cybersecurityawarenessbot\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C8680-3BDA-4CCD-B627-F1A6F2D490A6}|cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj|solutionrelative:cybersecurityawarenessbot\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ConsoleUI.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\ConsoleUI.cs",
               "RelativeDocumentMoniker": "cyberSecurityAwarenessBot\\ConsoleUI.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\ConsoleUI.cs",
               "RelativeToolTip": "cyberSecurityAwarenessBot\\ConsoleUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T12:48:51.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "CybersecurityAwarenessBot.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj",
+              "RelativeDocumentMoniker": "cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj*",
+              "RelativeToolTip": "cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T11:15:28.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ResponseHandler.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\ResponseHandler.cs",
               "RelativeDocumentMoniker": "cyberSecurityAwarenessBot\\ResponseHandler.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\ResponseHandler.cs",
-              "RelativeToolTip": "cyberSecurityAwarenessBot\\ResponseHandler.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\ResponseHandler.cs*",
+              "RelativeToolTip": "cyberSecurityAwarenessBot\\ResponseHandler.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T12:48:25.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Chatbot.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\Chatbot.cs",
               "RelativeDocumentMoniker": "cyberSecurityAwarenessBot\\Chatbot.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\Chatbot.cs",
-              "RelativeToolTip": "cyberSecurityAwarenessBot\\Chatbot.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAqwBYAAABCAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\Chatbot.cs*",
+              "RelativeToolTip": "cyberSecurityAwarenessBot\\Chatbot.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T12:47:40.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\Program.cs",
               "RelativeDocumentMoniker": "cyberSecurityAwarenessBot\\Program.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\Program.cs",
               "RelativeToolTip": "cyberSecurityAwarenessBot\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T12:43:54.862Z",
               "EditorCaption": ""
