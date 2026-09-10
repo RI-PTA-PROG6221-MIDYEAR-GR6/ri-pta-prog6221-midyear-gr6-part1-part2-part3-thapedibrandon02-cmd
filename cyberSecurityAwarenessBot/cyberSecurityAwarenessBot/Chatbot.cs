@@ -5,7 +5,7 @@ namespace CybersecurityAwarenessBot
 {
     public class Chatbot
     {
-        public string UserName { get; private set; }
+        public string UserName { get; private set; } = "Friend";
 
         public void Start()
         {
@@ -19,10 +19,19 @@ namespace CybersecurityAwarenessBot
         {
             try
             {
-                string path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Assets", "greeting.wav");
-                using (SoundPlayer player = new SoundPlayer(path))
+                string path = System.IO.Path.Combine(
+                    AppDomain.CurrentDomain.BaseDirectory,
+                    "Assets",
+                    "greeting.wav");
+
+                if (System.IO.File.Exists(path))
                 {
+                    using SoundPlayer player = new SoundPlayer(path);
                     player.PlaySync();
+                }
+                else
+                {
+                    Console.WriteLine("[Voice greeting file not found]");
                 }
             }
             catch (Exception)
@@ -38,9 +47,9 @@ namespace CybersecurityAwarenessBot
             Console.WriteLine("Hello! Welcome to the Cybersecurity Awareness Bot.");
             Console.ResetColor();
             Console.Write("What's your name? ");
-            string input = Console.ReadLine();
 
-            UserName = string.IsNullOrWhiteSpace(input) ? "Friend" : input.Trim();
+            string? input = Console.ReadLine();
+            UserName = string.IsNullOrWhiteSpace(input) ? "Friend" : input!.Trim();
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"\nNice to meet you, {UserName}! I'm here to help you stay safe online.");
@@ -54,7 +63,7 @@ namespace CybersecurityAwarenessBot
             while (running)
             {
                 Console.Write($"\n{UserName}> ");
-                string input = Console.ReadLine();
+                string? input = Console.ReadLine();
                 string response = ResponseHandler.GetResponse(input, UserName);
 
                 if (response == "__EXIT__")
