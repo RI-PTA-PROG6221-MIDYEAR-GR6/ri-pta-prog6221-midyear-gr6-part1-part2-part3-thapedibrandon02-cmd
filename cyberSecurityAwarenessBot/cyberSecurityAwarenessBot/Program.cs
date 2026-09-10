@@ -1,4 +1,4 @@
-﻿using cyberSecurityAwarenessBot;
+﻿using CybersecurityAwarenessBot;
 using System;
 
 namespace CybersecurityAwarenessBot
