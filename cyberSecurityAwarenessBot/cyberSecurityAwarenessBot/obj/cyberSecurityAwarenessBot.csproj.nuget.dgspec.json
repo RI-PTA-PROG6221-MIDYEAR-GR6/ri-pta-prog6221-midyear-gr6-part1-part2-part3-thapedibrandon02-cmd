@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj": {}
+    "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj": {
+    "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj",
-        "projectName": "cyberSecurityAwarenessBot",
-        "projectPath": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj",
+        "projectName": "CybersecurityAwarenessBot",
+        "projectPath": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\CybersecurityAwarenessBot.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\cyberSecurityAwarenessBot\\cyberSecurityAwarenessBot\\obj\\",
         "projectStyle": "PackageReference",
@@ -49,6 +49,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[10.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
