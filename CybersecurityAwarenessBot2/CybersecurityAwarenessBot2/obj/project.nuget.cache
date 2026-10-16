@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "w5VARi1J/jk=",
+  "dgSpecHash": "dVV/VhhVvRc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Student\\Documents\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\\CybersecurityAwarenessBot2\\CybersecurityAwarenessBot2\\CybersecurityAwarenessBot2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.windows.extensions\\10.0.12\\system.windows.extensions.10.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
