@@ -18,3 +18,8 @@ C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedi
 C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\CybersecurityAwarenessBot2\CybersecurityAwarenessBot2\obj\Debug\net9.0-windows\CybersecurityAwarenessBot2.pdb
 C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\CybersecurityAwarenessBot2\CybersecurityAwarenessBot2\obj\Debug\net9.0-windows\CybersecurityAwarenessBot2.genruntimeconfig.cache
 C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\CybersecurityAwarenessBot2\CybersecurityAwarenessBot2\obj\Debug\net9.0-windows\ref\CybersecurityAwarenessBot2.dll
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\CybersecurityAwarenessBot2\CybersecurityAwarenessBot2\bin\Debug\net9.0-windows\Assets\greeting.wav
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\CybersecurityAwarenessBot2\CybersecurityAwarenessBot2\bin\Debug\net9.0-windows\System.Windows.Extensions.dll
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\CybersecurityAwarenessBot2\CybersecurityAwarenessBot2\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\CybersecurityAwarenessBot2\CybersecurityAwarenessBot2\obj\Debug\net9.0-windows\CybersecurityAwarenessBot2.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\ri-pta-prog6221-midyear-gr6-part1-part2-part3-thapedibrandon02-cmd\CybersecurityAwarenessBot2\CybersecurityAwarenessBot2\obj\Debug\net9.0-windows\Cybersec.1B900108.Up2Date
